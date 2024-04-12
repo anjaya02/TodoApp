@@ -22,11 +22,11 @@ This project is a Todo application built using React.js and Vite, with a focus o
 
         npm install
 
-    2. after the installation of npm run this command:
+    3. after the installation of npm run this command:
 
         npm run dev
 
-    3. You can now interact with the project in the browser.
+    4. You can now interact with the project in the browser.
 
 
 ## Contributing
